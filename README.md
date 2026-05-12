@@ -19,3 +19,34 @@ I'm **Kuro The Dev** — a developer interested in building scalable, efficient,
 
 Currently exploring:
 AI systems, performance optimization, and modern infrastructure.
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuroTheCoder&theme=tokyonight" />
+</div> 
+<br/> 
+<div align="center"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KuroTheCoder&theme=tokyonight" /> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KuroTheCoder&theme=tokyonight&utcOffset=7" /> 
+</div> 
+<br/> 
+<div align="center"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KuroTheCoder&theme=tokyonight" /> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KuroTheCoder&theme=tokyonight" /> 
+</div>
+
+---
+
+## 📈 Contribution Graph <div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KuroTheCoder&theme=tokyo-night&hide_border=true&area=true" /> 
+</div>
+
+--- 
+
+## 🏆 GitHub Trophies <div align="center"> 
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=KuroTheCoder&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
+</div> 
+
+---
