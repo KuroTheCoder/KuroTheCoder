@@ -1,7 +1,9 @@
 <div align = "center">
 <a href="https://discord.com/users/1203323290743996447"><img src="https://lanyard.cnrad.dev/api/1203323290743996447?borderRadius=15px&theme=dark&showDisplayName=true" /></a>
+
 </div>
 
+![](https://komarev.com/ghpvc/?username=KuroTheCoder)
 ---
 
 ## 🌌 About Me
